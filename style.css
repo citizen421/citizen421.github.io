@@ -44,17 +44,10 @@ h1 {
     background-color: #1A1F20;
     padding: 1em;
 } */
-/* мизуна
-красная капуста
-горох
-редис
-дайкон
-базилик
-брокколи
-брюква
-руккола
-кале */
 .restaurant-text {
     font-size: 3em;
     font-weight: 500;
+}
+.wall {
+    background-color: #F5F1CC;
 }
