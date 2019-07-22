@@ -1,1 +1,3 @@
 User-agent: *
+Host: https://citizen421.github.io
+Allow: *
